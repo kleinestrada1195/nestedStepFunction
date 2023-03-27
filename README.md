@@ -1,8 +1,6 @@
 # Nested Step function
 
-This is a blank project for CDK development with TypeScript.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+This is a cdk project with a sample of nested step functions
 
 ## How to deploy the cdk stack:
 
